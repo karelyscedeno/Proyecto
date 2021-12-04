@@ -2,6 +2,8 @@
 
 ##Paso 1
 
+![Imagen del CPU](CPU.jpg)
+
 ##Paso 2
 
 ##Paso 3
