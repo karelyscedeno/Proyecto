@@ -1,1 +1,0 @@
-Estoy en 3ro ciclo de ensamblaje y mantenimiento de pc
